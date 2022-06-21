@@ -21,8 +21,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andytubeee&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ⚡ Fun fact: 
-* **69** is the only number that if you square it, and then cube it, you will get all the numbers from 0-9 without repeating.
+### ⚡ Question of the day: 
+- How do I declare a variable in HTML
 
 <!--
 **andytubeee/andytubeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
